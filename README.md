@@ -23,8 +23,8 @@ Total Population vs Vaccinations?
 
 What is the Percentage of Population that has recieved at least one Covid Vaccine Using:
 
-  -CTE
+- CTE
 
-  -Temp Table
+- Temp Table
 
-  -Create View
+- Create View
